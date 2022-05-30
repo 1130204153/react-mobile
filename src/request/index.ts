@@ -1,3 +1,5 @@
+import { Toast } from 'antd-mobile';
+
 const defaults = require('./config');
 const CommonService = require('./commonService');
 const { debounce } = require('@/utils/index');
@@ -29,23 +31,30 @@ class UAAService extends CommonService {
       const { errorMsg, errCode } = response;
 
       if (errCode === 'SESSION_TIMEOUT') {
-        window.location.href = `${window.location.origin}/mpaas/login`;
+        window.location.href = `${window.location.origin}/login`;
         if (this.timer) {
           clearTimeout(this.timer);
           this.timer = null;
         }
         this.timer = setTimeout(() => {
-          // notification.error({ message: errorMsg });
+          Toast.show({
+            content: errorMsg,
+          });
         }, 300);
         return '';
       }
-      // needNotication &&
-      //   notification.error({ message: errorMsg, description: `${errorMsg}` });
+      needNotication &&
+        Toast.show({
+          content: errorMsg,
+        });
       return '';
     }
 
     if (resultCode !== this.RESULT_CODE.SUCCESS && resultMsg) {
-      // needNotication && notification.error({ message: resultMsg });
+      needNotication &&
+        Toast.show({
+          content: resultMsg,
+        });
       return '';
     }
 
@@ -53,4 +62,4 @@ class UAAService extends CommonService {
   }
 }
 
-module.exports = new UAAService(defaults);
+export default new UAAService(defaults);
