@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.939" height="18.443" viewBox="0 0 16.939 18.443">
+  <g id="icon_search" data-name="icon/search" opacity="0.5">
+    <g id="椭圆_19" data-name="椭圆 19" fill="none" stroke="#707070" stroke-width="2">
+      <circle cx="6.5" cy="6.5" r="6.5" stroke="none"/>
+      <circle cx="6.5" cy="6.5" r="5.5" fill="none"/>
+    </g>
+    <path id="路径_245" data-name="路径 245" d="M0,0,5.018,5.365" transform="translate(10.154 11.311)" fill="#707070" stroke="#707070" stroke-linecap="round" stroke-width="2.5"/>
+    <path id="路径_246" data-name="路径 246" d="M573.753,329.85a2.679,2.679,0,0,1,1.88,2.27" transform="translate(-566.473 -325.978)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>

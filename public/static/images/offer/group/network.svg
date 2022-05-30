@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150.123" height="151.788" viewBox="0 0 150.123 151.788">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.47" cy="0.351" r="0.812" gradientTransform="translate(0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#77d9e0"/>
+      <stop offset="0.413" stop-color="#67b7c2"/>
+      <stop offset="0.489" stop-color="#64b1bc"/>
+      <stop offset="1" stop-color="#548d96"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.538" cy="0.311" r="0.864" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aac2c7"/>
+      <stop offset="0.489" stop-color="#b6bdc1"/>
+      <stop offset="1" stop-color="#7e8184"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.489" cy="0.32" r="0.821" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#45efbe"/>
+      <stop offset="0.489" stop-color="#3fd5ae"/>
+      <stop offset="0.67" stop-color="#38a588"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="1.039" y1="1.076" x2="0.123" y2="0.116" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#aac2c7" stop-opacity="0"/>
+      <stop offset="1" stop-color="#7e8184"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-4" cx="0.487" cy="0.349" r="0.898" gradientTransform="translate(0)" xlink:href="#radial-gradient-2"/>
+    <radialGradient id="radial-gradient-5" cx="0.49" cy="0.336" r="0.743" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-6" cx="0.5" cy="0.339" r="0.719" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="network" transform="translate(482.289 -516.57)">
+    <g id="组_222" data-name="组 222">
+      <rect id="矩形_136" data-name="矩形 136" width="48.855" height="1.001" transform="translate(-445.981 556.216) rotate(-15.853)" fill="#b6bdc1"/>
+    </g>
+    <circle id="椭圆_21" data-name="椭圆 21" cx="11.513" cy="11.513" r="11.513" transform="translate(-457.36 545.177)" fill="url(#radial-gradient)"/>
+    <circle id="椭圆_22" data-name="椭圆 22" cx="7.222" cy="7.222" r="7.222" transform="translate(-406.068 536.136)" fill="url(#radial-gradient-2)"/>
+    <g id="组_223" data-name="组 223">
+      <path id="路径_4411" data-name="路径 4411" d="M-404.685,587.428l-.99-.142,5.8-41.811c.4-.232.763-.3.991.143Z" fill="#b6bdc1"/>
+    </g>
+    <g id="组_224" data-name="组 224">
+      <path id="路径_4412" data-name="路径 4412" d="M-405.481,587.756l-36.134-28.433q.027-.7.6-.8l36.133,28.434Z" fill="#b6bdc1"/>
+    </g>
+    <circle id="椭圆_23" data-name="椭圆 23" cx="15.68" cy="15.68" r="15.68" transform="translate(-420.36 571.677)" fill="url(#radial-gradient-3)"/>
+    <g id="组_225" data-name="组 225">
+      <path id="路径_4413" data-name="路径 4413" d="M-357.639,600.127l-38.72-54.492c.2-.42.441-.7.814-.58l38.72,54.492Z" fill="#b6bdc1"/>
+    </g>
+    <g id="组_226" data-name="组 226">
+      <path id="路径_4414" data-name="路径 4414" d="M-359.3,599.675l-36.083-10.307a.594.594,0,0,1,.25-.969l36.083,10.308Z" fill="#b6bdc1"/>
+    </g>
+    <g id="组_227" data-name="组 227">
+      <path id="路径_4415" data-name="路径 4415" d="M-405.013,645.026l-1,0,.25-52.752c.35-.366.686-.408,1,0Z" fill="#b6bdc1"/>
+    </g>
+    <g id="组_228" data-name="组 228">
+      <path id="路径_4416" data-name="路径 4416" d="M-405.634,645.233l-38.913-84.541c-.005-.52.235-.737.909-.418l38.912,84.541Z" fill="#b6bdc1"/>
+      <path id="路径_4417" data-name="路径 4417" d="M-427.432,597.876l1.685,3.66.908-.418-1.741-3.782Z" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="组_229" data-name="组 229">
+      <path id="路径_4418" data-name="路径 4418" d="M-458.944,616.8l-.473-.88L-413,589c.475.022.649.3.473.881Z" fill="#b6bdc1"/>
+    </g>
+    <circle id="椭圆_24" data-name="椭圆 24" cx="7.643" cy="7.643" r="7.643" transform="translate(-466.823 608.715)" fill="url(#radial-gradient-4)"/>
+    <g id="组_230" data-name="组 230">
+      <path id="路径_4419" data-name="路径 4419" d="M-405.415,645.465l-50.817-26.891a.9.9,0,0,1,.469-.883l50.817,26.892Z" fill="#b6bdc1"/>
+    </g>
+    <circle id="椭圆_25" data-name="椭圆 25" cx="8.68" cy="8.68" r="8.68" transform="translate(-367.86 590.511)" fill="url(#radial-gradient-5)"/>
+    <g id="组_231" data-name="组 231">
+      <path id="路径_4420" data-name="路径 4420" d="M-404.91,645.378l-.707-.707,43.813-43.854c.484-.1.751.089.707.707Z" fill="#b6bdc1"/>
+    </g>
+    <circle id="椭圆_26" data-name="椭圆 26" cx="13.18" cy="13.18" r="13.18" transform="translate(-418.36 631.844)" fill="url(#radial-gradient-6)"/>
+    <circle id="椭圆_27" data-name="椭圆 27" cx="5.963" cy="5.963" r="5.963" transform="translate(-405.601 575.455)" fill="#fff" opacity="0.47"/>
+    <circle id="椭圆_28" data-name="椭圆 28" cx="4.036" cy="4.036" r="4.036" transform="translate(-360.938 593.932)" fill="#fff" opacity="0.47"/>
+    <circle id="椭圆_29" data-name="椭圆 29" cx="4.113" cy="4.113" r="4.113" transform="translate(-401.123 537.27)" fill="#fff" opacity="0.47"/>
+    <circle id="椭圆_30" data-name="椭圆 30" cx="4.353" cy="4.353" r="4.353" transform="translate(-461.589 611.454)" fill="#fff" opacity="0.47"/>
+    <circle id="椭圆_31" data-name="椭圆 31" cx="5.492" cy="5.492" r="5.492" transform="translate(-406.181 636.674)" fill="#fff" opacity="0.47"/>
+    <circle id="椭圆_32" data-name="椭圆 32" cx="5.351" cy="5.351" r="5.351" transform="translate(-448.772 547.293)" fill="#fff" opacity="0.47"/>
+  </g>
+</svg>
